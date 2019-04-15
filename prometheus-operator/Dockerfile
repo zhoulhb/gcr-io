@@ -1,1 +1,1 @@
-From quay.io/coreos/prometheus-operator:v0.28.0
+From quay.io/coreos/prometheus-operator:v0.29.0
